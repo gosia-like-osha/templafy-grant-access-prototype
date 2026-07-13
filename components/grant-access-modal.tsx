@@ -302,7 +302,7 @@ export function GrantAccessModal({ onClose }: GrantAccessModalProps) {
                 Active
               </span>
             </div>
-            <p className="text-[15px] leading-[18px] text-[#272727]">
+            <p className="text-[15px] leading-[18px] text-[#272727] opacity-70">
               Advanced productivity tools for presentations
             </p>
           </div>
