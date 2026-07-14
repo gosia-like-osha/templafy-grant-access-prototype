@@ -486,7 +486,7 @@ export function GrantAccessModal({ onClose }: GrantAccessModalProps) {
                 }}
                 className="text-[15px] font-medium leading-5 text-[#272727]"
               >
-                Cancel
+                Close
               </button>
               <button
                 type="button"
